@@ -1,0 +1,14 @@
+{
+    "sum_scenarios": [
+        {
+            "num1": 5,
+            "num2": 3,
+            "expected_result": 8
+        },
+        {
+            "num1": 10,
+            "num2": 20,
+            "expected_result": 30
+        }
+    ]
+}
